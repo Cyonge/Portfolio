@@ -1,4 +1,6 @@
-
+body{
+    background-image: url("dark-honeycomb.png");
+}
 .row {
     height: 150px;
 }
@@ -20,7 +22,8 @@
 
 .container {
     background-color: #cfcbcb;
-    z-index: -5;
+    
+
 }
 
 /* set a minimum height to 90 viewport */
