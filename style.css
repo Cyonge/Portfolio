@@ -1,0 +1,24 @@
+
+.row {
+    height: 150px;
+}
+
+.col {
+    background-color: #f2f2f2;
+
+}
+
+#bgc {
+    background-color: #f2f2f2;
+    height: 200px;
+}
+
+.navbar {
+    height: 50px;
+}
+
+.container {
+    background-color: #eeeaea;
+}
+
+/* set a minimum height to 90 viewport */
