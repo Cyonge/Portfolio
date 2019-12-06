@@ -15,10 +15,12 @@
 
 .navbar {
     height: 50px;
+    z-index: 1;
 }
 
 .container {
-    background-color: #eeeaea;
+    background-color: #cfcbcb;
+    z-index: -5;
 }
 
 /* set a minimum height to 90 viewport */
